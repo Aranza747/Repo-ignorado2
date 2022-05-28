@@ -23,6 +23,6 @@ assets/*.pdf
 
 
 
-
+!-experimento.*
 
 !-system.*
